@@ -1,0 +1,1 @@
+lighthouse https://github.com/  --only-categories performance --quiet --chrome-flags="--headless"
